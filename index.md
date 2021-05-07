@@ -1,8 +1,13 @@
-## Welcome to GitHub Pages
+## 从零实现操作系统（基于ucore）
 
-You can use the [editor on GitHub](https://github.com/QFENGLI/QFENGLI.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### 实验0——实验环境搭建
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![image](https://user-images.githubusercontent.com/83762749/117461825-95de9880-af80-11eb-9afc-d79e8e27f97e.png)
+安装VM Virtual Box虚拟机
+安装ubuntu 14.04操作系统
+基于ubuntu 14.04操作系统安装所需的实验环境
+![image](https://user-images.githubusercontent.com/83762749/117462145-e950e680-af80-11eb-87e7-5d9d3210e325.png)
+所需配置如上所示
 
 ### Markdown
 
